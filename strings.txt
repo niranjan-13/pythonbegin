@@ -3,5 +3,7 @@ it consists of characters
 
 strings are written between doouble quotes
 
+lists 
+dictionary
 
-thank you thank you
+thank you
