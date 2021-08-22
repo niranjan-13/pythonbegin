@@ -1,7 +1,5 @@
-Python has different data types 
+List
 
-1.String
- 
-String is a mutable data type
-It consists of characters
-Strings are written between ()
+List is a mutable data type
+
+Lists are  written in between []
