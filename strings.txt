@@ -1,0 +1,2 @@
+String is the python data type
+it consists of characters 
