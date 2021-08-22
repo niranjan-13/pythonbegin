@@ -5,3 +5,5 @@ Python has different data types
 String is a mutable data type
 It consists of characters
 Strings are written between ()
+
+Thank you
