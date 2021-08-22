@@ -1,2 +1,4 @@
 String is the python data type
 it consists of characters 
+
+strings are written between doouble quotes
