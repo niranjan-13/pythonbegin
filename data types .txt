@@ -1,0 +1,6 @@
+Python has different data types 
+
+1.String
+2.List
+3.Dictionary
+4.tuple
