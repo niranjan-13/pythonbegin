@@ -1,9 +1,16 @@
 Python has different data types 
 
 1.String
+
+
+4.Tupl
+
+Done
+
  
 String is a mutable data type
 It consists of characters
 Strings are written between ()
 
 Thank you
+
