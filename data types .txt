@@ -1,7 +1,7 @@
 Python has different data types 
 
 1.String
- 
-String is a mutable data type
-It consists of characters
-Strings are written between ()
+
+4.Tupl
+
+Done
