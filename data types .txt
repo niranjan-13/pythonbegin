@@ -1,9 +1,9 @@
 Python has different data types 
 
 1.String
-
-
-4.Tupl
+2.List
+3.Dictionary
+4.Tuple
 
 Done
 
